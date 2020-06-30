@@ -124,19 +124,61 @@
 				<Item Name="Write Spreadsheet String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Spreadsheet String.vi"/>
 				<Item Name="XControlSupport.lvlib" Type="Library" URL="/&lt;vilib&gt;/_xctls/XControlSupport.lvlib"/>
 			</Item>
+			<Item Name="AppKeyPath.vi" Type="VI" URL="../../EN1Course-master/_Subs/AppKeyPath.vi"/>
 			<Item Name="ApplicationServices.framework" Type="Document" URL="ApplicationServices.framework">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="Ask Login.vi" Type="VI" URL="../../EN1Course-master/_Subs/ThingWorx/_TW_Subs/ThingworxCtrl/Ask Login.vi"/>
+			<Item Name="Build_CommCluster.vi" Type="VI" URL="../../EN1Course-master/_Subs/ThingWorx/_TW_Subs/ThingworxCtrl/Build_CommCluster.vi"/>
 			<Item Name="Carbon.framework" Type="Document" URL="Carbon.framework">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="Configure_SL.vi" Type="VI" URL="../../EN1Course-master/_Subs/SystemLink/SL_Subs/SystemLInkCtrl/Configure_SL.vi"/>
+			<Item Name="Configure_TW.vi" Type="VI" URL="../../EN1Course-master/_Subs/ThingWorx/_TW_Subs/ThingworxCtrl/Configure_TW.vi"/>
 			<Item Name="CoreFoundation.framework" Type="Document" URL="CoreFoundation.framework">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Endpoint.vi" Type="VI" URL="/&lt;extravilib&gt;/ChannelInstances/Tag-i32/Endpoint.vi"/>
 			<Item Name="EndpointRead.vi" Type="VI" URL="/&lt;extravilib&gt;/ChannelInstances/Tag-i32/EndpointRead.vi"/>
+			<Item Name="FindPropertyValue.vi" Type="VI" URL="../../EN1Course-master/_Subs/ThingWorx/_TW_Subs/ThingworxCtrl/FindPropertyValue.vi"/>
+			<Item Name="GetTagListing.vi" Type="VI" URL="../../EN1Course-master/_Subs/SystemLink/SL_Subs/SystemLInkCtrl/GetTagListing.vi"/>
+			<Item Name="GetThingNames.vi" Type="VI" URL="../../EN1Course-master/_Subs/ThingWorx/_TW_Subs/ThingworxCtrl/GetThingNames.vi"/>
 			<Item Name="Instantiate.vi" Type="VI" URL="/&lt;extravilib&gt;/ChannelInstances/Tag-i32/Instantiate.vi"/>
+			<Item Name="JSONHack.vi" Type="VI" URL="../../EN1Course-master/_Subs/JSONHack.vi"/>
+			<Item Name="Open_XControl.xctl" Type="XControl" URL="../../EN1Course-master/_Subs/OpenDiagram/Open_XControl.xctl"/>
 			<Item Name="Read With Abort.vi" Type="VI" URL="/&lt;extravilib&gt;/ChannelInstances/Tag-i32/Read With Abort.vi"/>
+			<Item Name="ReadAppKeyFile.vi" Type="VI" URL="../../EN1Course-master/_Subs/ThingWorx/_TW_Subs/ThingworxCtrl/ReadAppKeyFile.vi"/>
+			<Item Name="ReadAppKeyFile_SL.vi" Type="VI" URL="../../EN1Course-master/_Subs/SystemLink/SL_Subs/SystemLInkCtrl/ReadAppKeyFile_SL.vi"/>
+			<Item Name="ReadProperties.vi" Type="VI" URL="../../EN1Course-master/_Subs/ThingWorx/_TW_Subs/ThingworxCtrl/ReadProperties.vi"/>
+			<Item Name="RESTful API.vi" Type="VI" URL="../../EN1Course-master/_Subs/ThingWorx/_TW_Subs/ThingworxCtrl/RESTful API.vi"/>
+			<Item Name="SL_Ask Login.vi" Type="VI" URL="../../EN1Course-master/_Subs/SystemLink/SL_Subs/SystemLInkCtrl/SL_Ask Login.vi"/>
+			<Item Name="SL_Control.ctl" Type="VI" URL="../../EN1Course-master/_Subs/SystemLink/SL_Subs/SystemLInkCtrl/SL_Control.ctl"/>
+			<Item Name="SL_ReadData.vi" Type="VI" URL="../../EN1Course-master/_Subs/SystemLink/SL_Subs/SystemLInkCtrl/SL_ReadData.vi"/>
+			<Item Name="SL_ValueDialog.vi" Type="VI" URL="../../EN1Course-master/_Subs/SystemLink/SL_Subs/SystemLInkCtrl/SL_ValueDialog.vi"/>
+			<Item Name="SL_WriteData.vi" Type="VI" URL="../../EN1Course-master/_Subs/SystemLink/SL_Subs/SystemLInkCtrl/SL_WriteData.vi"/>
+			<Item Name="SL_XControl.xctl" Type="XControl" URL="../../EN1Course-master/_Subs/SystemLink/SL_Subs/SL_XControl.xctl"/>
+			<Item Name="SystemLink_Read.vi" Type="VI" URL="../../EN1Course-master/_Subs/SystemLink/SystemLink_Read.vi"/>
+			<Item Name="SystemLink_Write.vi" Type="VI" URL="../../EN1Course-master/_Subs/SystemLink/SystemLink_Write.vi"/>
+			<Item Name="SystemLink_Write_Boolean.vi" Type="VI" URL="../../EN1Course-master/_Subs/SystemLink/SL_Subs/SystemLink_Write_Boolean.vi"/>
+			<Item Name="SystemLink_Write_Number.vi" Type="VI" URL="../../EN1Course-master/_Subs/SystemLink/SL_Subs/SystemLink_Write_Number.vi"/>
+			<Item Name="SystemLink_Write_String.vi" Type="VI" URL="../../EN1Course-master/_Subs/SystemLink/SL_Subs/SystemLink_Write_String.vi"/>
+			<Item Name="Thingworx_ParseBrackets.vi" Type="VI" URL="../../EN1Course-master/_Subs/ThingWorx/_TW_Subs/ThingworxCtrl/Thingworx_ParseBrackets.vi"/>
+			<Item Name="Thingworx_ParseJSON.vi" Type="VI" URL="../../EN1Course-master/_Subs/ThingWorx/_TW_Subs/ThingworxCtrl/Thingworx_ParseJSON.vi"/>
+			<Item Name="Thingworx_Read.vi" Type="VI" URL="../../EN1Course-master/_Subs/ThingWorx/Thingworx_Read.vi"/>
+			<Item Name="Thingworx_RemoveQuotes.vi" Type="VI" URL="../../EN1Course-master/_Subs/ThingWorx/_TW_Subs/ThingworxCtrl/Thingworx_RemoveQuotes.vi"/>
+			<Item Name="Thingworx_Write.vi" Type="VI" URL="../../EN1Course-master/_Subs/ThingWorx/Thingworx_Write.vi"/>
+			<Item Name="Thingworx_Write_Bool.vi" Type="VI" URL="../../EN1Course-master/_Subs/ThingWorx/_TW_Subs/Thingworx_Write_Bool.vi"/>
+			<Item Name="Thingworx_Write_image.vi" Type="VI" URL="../../EN1Course-master/_Subs/ThingWorx/_TW_Subs/Thingworx_Write_image.vi"/>
+			<Item Name="Thingworx_Write_num.vi" Type="VI" URL="../../EN1Course-master/_Subs/ThingWorx/_TW_Subs/Thingworx_Write_num.vi"/>
+			<Item Name="Thingworx_Write_string.vi" Type="VI" URL="../../EN1Course-master/_Subs/ThingWorx/_TW_Subs/Thingworx_Write_string.vi"/>
+			<Item Name="TW_Base64Conversion.vi" Type="VI" URL="../../EN1Course-master/_Subs/ThingWorx/_TW_Subs/TW_Base64Conversion.vi"/>
+			<Item Name="TW_BuildJSON.vi" Type="VI" URL="../../EN1Course-master/_Subs/ThingWorx/_TW_Subs/ThingworxCtrl/TW_BuildJSON.vi"/>
+			<Item Name="TW_Create.vi" Type="VI" URL="../../EN1Course-master/_Subs/ThingWorx/_TW_Subs/ThingworxCtrl/TW_Create.vi"/>
+			<Item Name="TW_HTTPErr.vi" Type="VI" URL="../../EN1Course-master/_Subs/ThingWorx/_TW_Subs/ThingworxCtrl/TW_HTTPErr.vi"/>
+			<Item Name="TW_ReadData.vi" Type="VI" URL="../../EN1Course-master/_Subs/ThingWorx/_TW_Subs/ThingworxCtrl/TW_ReadData.vi"/>
+			<Item Name="TW_Thing-Split.vi" Type="VI" URL="../../EN1Course-master/_Subs/ThingWorx/_TW_Subs/ThingworxCtrl/TW_Thing-Split.vi"/>
+			<Item Name="TW_WriteData.vi" Type="VI" URL="../../EN1Course-master/_Subs/ThingWorx/_TW_Subs/ThingworxCtrl/TW_WriteData.vi"/>
+			<Item Name="TW_XControl.xctl" Type="XControl" URL="../../EN1Course-master/_Subs/ThingWorx/_TW_Subs/TW_XControl.xctl"/>
 			<Item Name="Write With Abort.vi" Type="VI" URL="/&lt;extravilib&gt;/ChannelInstances/Tag-i32/Write With Abort.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
